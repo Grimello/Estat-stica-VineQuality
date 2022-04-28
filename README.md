@@ -1,5 +1,5 @@
-# Estatistica-VineQuality
-Criação de modelos de Regressão Linear e Regressão Logística no Dataset 'Vine Quality'.
+# Estatistica-wineQuality
+Criação de modelos de Regressão Linear e Regressão Logística no Dataset 'Wine Quality'.
 
 Informações sobre o projeto:
 Dataset (conjunto de dados a ser utilizado) está disponível em: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
